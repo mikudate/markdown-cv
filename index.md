@@ -1,91 +1,61 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+### 个人介绍
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+姓名: `章**`
 
+出生年月: `1998.05`
 
-## Currently
+工作经验: **1.5** 年
 
-Standing on the shoulders of giants
+电 话: `18858673473`
 
-### Specialized in
+邮 箱: `451860392@qq.com`
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+教育背景: `2021.02 ~ 2023.01 湖南文理学院 物联网应用技术`（**非全日制**）
 
+### 开发技能
 
-### Research interests
+```text
+1. 熟悉 HTML5, CSS3, JavaScript
+2. 熟悉 ES6, Promise, Async, Socket
+3. 熟悉 Vue3 全家桶
+4. 熟悉 Element, Vant
+5. 熟悉 Git/GitLab 仓库托管项目
+6. 了解 Node.js, React
+```
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### 工作经历
 
+#### 成都暖暖科技有限公司 2021.4 ~ 2022.7
 
-## Education
+### 项目经验
 
-`1654-1660`
-__The King's School, Grantham.__
+**暖暖房屋** 前端开发
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+#### 项目职责
 
-- Sizar
+```js
+1. 使用 vue-cli 配置并开发移动端项目.
+2. 二次封装 Axios，统一管理数据访问 API.
+3. 通过 token 实现登录鉴权， 利用 localStorage， sessionStorage 缓存数据.
+4. 使用 canvas 绘制签名，实现网上签约功能.
+5. 与后台人员定制相关静态变量，对接数据.
+```
 
-`1667 - death`
-__Trinity College, Cambridge__
+**有温度的房屋在线交易平台** 前端开发
 
-- Fellow
+#### 项目职责
 
+```js
+1. 使用 HTML5+CSS3+javascript+vue 开发房屋在线平台业务系统.
+2. 使用 Swiper， Animate.css，实现页面动画特效.
+3. 使用 ElementUI框架构建项目结构，web uploader 实现图片上传.
+4. 独自负责页面开发，与后台(php)人员进行数据对接.
+5. 在桌面端实现了用户登录，房源认证，在线发布房源，支持网上看房，线下签约入住.
+```
 
+### 其他技能
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+```text
+1. 日语可以进行简单会话
+2. 能读懂英文技术文档
+```
